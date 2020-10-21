@@ -4,8 +4,8 @@ public static void main(String[] args)
 {
 System.out.println("Details with the final keyword");
 
-final String aadharNumber;
-aadharNumber="444433332222";
+final long aadharNumber;
+aadharNumber="444433332222L";
 System.out.println("aadharNumber:"+aadharNumber);
 
 final String phoneNumber;
